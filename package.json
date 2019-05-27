@@ -1,0 +1,16 @@
+{
+  "name": "bill-beez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "KD",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "sqlite3": "^4.0.8"
+  }
+}
